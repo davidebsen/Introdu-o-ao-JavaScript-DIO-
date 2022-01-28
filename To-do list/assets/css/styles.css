@@ -1,0 +1,46 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+button {
+    border: 1px solid rgb(105, 197, 255);
+    border-radius: 12px;
+    background-color: rgb(227, 248, 255);
+    color: rgb(105, 197, 255);
+    text-align: center;
+    padding:5px
+}
+
+input[type="text"] {
+    padding: 10px;
+    border-radius: 5px;
+    border: 10px solid red;
+}
+
+#tasks {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.task-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+:checked + label {
+    text-decoration: line-through;
+    color: rgb(255, 9, 9);
+    font: bold;
+}
