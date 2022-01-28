@@ -1,4 +1,4 @@
-# Introduçâo ao JavaScript (DIO)
+# Introdução ao JavaScript (DIO)
 Curso introdução Java Script 
 
 * Desafio do Contador.
