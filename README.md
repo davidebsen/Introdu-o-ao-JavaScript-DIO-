@@ -7,6 +7,8 @@
 * Desafio To-do-List.
 * Atividade pratica Sintaze e Operadores.
 * Atividade Variáveis e Tipos.
+* Atividade Funções.
+* Atividade Coleçoes.
 
 ## Linguagens.
 * HTML5.
